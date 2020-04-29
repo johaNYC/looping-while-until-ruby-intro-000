@@ -7,5 +7,6 @@ end
 
 levitation_force += 1
 
-while levitation_force < 10 
- puts " "
+while levitation_force <= 10 
+ puts "Wingardium Leviosa"
+end
